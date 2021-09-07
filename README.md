@@ -1,2 +1,2 @@
-# TEST_-sql_sample
+# TEST_sql_sample
 Test repository for SQL files.
